@@ -1,6 +1,6 @@
-hub yep
-shortLabel YEP
-longLabel YEP
+hub track-demo
+shortLabel track-demo
+longLabel track-demo
 genomesFile genomes.txt
 email pxk284@psu.edu
 descriptionUrl description.html
