@@ -5768,36 +5768,6 @@
     type bigWig
     priority 583
 
-    track yep1f19690
-    shortLabel HAP5 Heat-Shock
-    longLabel 19690 HAP5 forward strand
-    parent yep1f off
-    color 0,0,255
-    bigDataUrl data/19690_HAP5_forwardStrand.bw
-    subGroups view=f fact=hap5 treat=Heat-Shock
-    type bigWig
-    priority 584
-
-    track yep1p19690
-    shortLabel HAP5 Heat-Shock
-    longLabel 19690 HAP5 peaks
-    parent yep1p off
-    color 0,0,0
-    bigDataUrl data/19690_HAP5_chexmix_filtered.bb
-    subGroups view=p fact=hap5 treat=Heat-Shock
-    type bigBed
-    priority 585
-
-    track yep1r19690
-    shortLabel HAP5 Heat-Shock
-    longLabel 19690 HAP5 reverse strand
-    parent yep1r off
-    color 255,0,0
-    bigDataUrl data/19690_HAP5_reverseStrand.bw
-    subGroups view=r fact=hap5 treat=Heat-Shock
-    type bigWig
-    priority 586
-
     track yep1f15479
     shortLabel ELP3 YPD
     longLabel 15479 ELP3 forward strand
@@ -16837,36 +16807,6 @@
     subGroups view=r fact=rpb4 treat=YPD
     type bigWig
     priority 1690
-
-    track yep1f22521
-    shortLabel HAP5 YPD
-    longLabel 22521 HAP5 forward strand
-    parent yep1f off
-    color 0,0,255
-    bigDataUrl data/22521_HAP5_forwardStrand.bw
-    subGroups view=f fact=hap5 treat=YPD
-    type bigWig
-    priority 1691
-
-    track yep1p22521
-    shortLabel HAP5 YPD
-    longLabel 22521 HAP5 peaks
-    parent yep1p off
-    color 0,0,0
-    bigDataUrl data/22521_HAP5_chexmix_filtered.bb
-    subGroups view=p fact=hap5 treat=YPD
-    type bigBed
-    priority 1692
-
-    track yep1r22521
-    shortLabel HAP5 YPD
-    longLabel 22521 HAP5 reverse strand
-    parent yep1r off
-    color 255,0,0
-    bigDataUrl data/22521_HAP5_reverseStrand.bw
-    subGroups view=r fact=hap5 treat=YPD
-    type bigWig
-    priority 1693
 
     track yep2f20383
     shortLabel NRD1 Heat-Shock
@@ -28768,36 +28708,6 @@
     type bigWig
     priority 2883
 
-    track yep1f22551
-    shortLabel HAP5 Oxidative-Stress
-    longLabel 22551 HAP5 forward strand
-    parent yep1f off
-    color 0,0,255
-    bigDataUrl data/22551_HAP5_forwardStrand.bw
-    subGroups view=f fact=hap5 treat=Oxidative-Stress
-    type bigWig
-    priority 2884
-
-    track yep1p22551
-    shortLabel HAP5 Oxidative-Stress
-    longLabel 22551 HAP5 peaks
-    parent yep1p off
-    color 0,0,0
-    bigDataUrl data/22551_HAP5_chexmix_filtered.bb
-    subGroups view=p fact=hap5 treat=Oxidative-Stress
-    type bigBed
-    priority 2885
-
-    track yep1r22551
-    shortLabel HAP5 Oxidative-Stress
-    longLabel 22551 HAP5 reverse strand
-    parent yep1r off
-    color 255,0,0
-    bigDataUrl data/22551_HAP5_reverseStrand.bw
-    subGroups view=r fact=hap5 treat=Oxidative-Stress
-    type bigWig
-    priority 2886
-
     track yep1f13895
     shortLabel H3K27AC YPD
     longLabel 13895 H3K27AC forward strand
@@ -38398,36 +38308,6 @@
     type bigWig
     priority 3846
 
-    track yep1f10535
-    shortLabel HAP5 YPD
-    longLabel 10535 HAP5 forward strand
-    parent yep1f off
-    color 0,0,255
-    bigDataUrl data/10535_HAP5_forwardStrand.bw
-    subGroups view=f fact=hap5 treat=YPD
-    type bigWig
-    priority 3847
-
-    track yep1p10535
-    shortLabel HAP5 YPD
-    longLabel 10535 HAP5 peaks
-    parent yep1p off
-    color 0,0,0
-    bigDataUrl data/10535_HAP5_chexmix_filtered.bb
-    subGroups view=p fact=hap5 treat=YPD
-    type bigBed
-    priority 3848
-
-    track yep1r10535
-    shortLabel HAP5 YPD
-    longLabel 10535 HAP5 reverse strand
-    parent yep1r off
-    color 255,0,0
-    bigDataUrl data/10535_HAP5_reverseStrand.bw
-    subGroups view=r fact=hap5 treat=YPD
-    type bigWig
-    priority 3849
-
     track yep1f17768
     shortLabel ADR1 YPD
     longLabel 17768 ADR1 forward strand
@@ -44547,36 +44427,6 @@
     subGroups view=r fact=rpb3 treat=Oxidative-Stress
     type bigWig
     priority 4461
-
-    track yep1f22536
-    shortLabel HAP5 Heat-Shock
-    longLabel 22536 HAP5 forward strand
-    parent yep1f off
-    color 0,0,255
-    bigDataUrl data/22536_HAP5_forwardStrand.bw
-    subGroups view=f fact=hap5 treat=Heat-Shock
-    type bigWig
-    priority 4462
-
-    track yep1p22536
-    shortLabel HAP5 Heat-Shock
-    longLabel 22536 HAP5 peaks
-    parent yep1p off
-    color 0,0,0
-    bigDataUrl data/22536_HAP5_chexmix_filtered.bb
-    subGroups view=p fact=hap5 treat=Heat-Shock
-    type bigBed
-    priority 4463
-
-    track yep1r22536
-    shortLabel HAP5 Heat-Shock
-    longLabel 22536 HAP5 reverse strand
-    parent yep1r off
-    color 255,0,0
-    bigDataUrl data/22536_HAP5_reverseStrand.bw
-    subGroups view=r fact=hap5 treat=Heat-Shock
-    type bigWig
-    priority 4464
 
     track yep1f19828
     shortLabel HTL1 Heat-Shock
