@@ -2,7 +2,7 @@
 
 This repo is a demo to host a UCSC trackhub on GitHub to visualize bigWigs and bigBeds.
 
-#### Steps
+#### Steps to connect the trackhub to UCSC genome browser
 
 - Go to [UCSC genome browser](https://genome.ucsc.edu/) and goto `My Data > Track Hubs`
 - Now select the `My Hubs` tab on the page.
