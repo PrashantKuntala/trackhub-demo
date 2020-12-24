@@ -1,0 +1,6 @@
+hub yep
+shortLabel YEP
+longLabel YEP
+genomesFile genomes.txt
+email pxk284@psu.edu
+descriptionUrl description.html
