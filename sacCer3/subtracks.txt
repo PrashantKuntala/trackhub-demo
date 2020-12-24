@@ -4233,7 +4233,7 @@
     longLabel 11738 ABF1 peaks
     parent yep1p off
     color 0,0,0
-    bigDataUrl http://pluto.vmhost.psu.edu/data/sampleBigBed/11738_ABF1_chexmix_filtered.bb
+    bigDataUrl 11738_ABF1_chexmix_filtered.bb
     subGroups view=p fact=abf1 treat=YPD
     type bigBed
     priority 430
@@ -54277,4 +54277,3 @@
     subGroups view=r fact=cdc39 treat=YPD
     type bigWig
     priority 5434
-
