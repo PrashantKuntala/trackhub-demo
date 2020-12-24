@@ -28,36 +28,6 @@ subGroups view=r fact=hap5 treat=YPD
 type bigWig
 priority 5304
 
-track yep1f15254
-shortLabel ABF1 YPD
-longLabel 15254 ABF1 forward strand
-parent yep1f off
-color 0,0,255
-bigDataUrl data/15254_ABF1_forwardStrand.bw
-subGroups view=f fact=abf1 treat=YPD
-type bigWig
-priority 429
-
-track yep1p15254
-shortLabel ABF1 YPD
-longLabel 15254 ABF1 peaks
-parent yep1p off
-color 0,0,0
-bigDataUrl 15254_ABF1_chexmix_filtered.bb
-subGroups view=p fact=abf1 treat=YPD
-type bigBed
-priority 430
-
-track yep1r15254
-shortLabel ABF1 YPD
-longLabel 15254 ABF1 reverse strand
-parent yep1r off
-color 255,0,0
-bigDataUrl 15254_ABF1_reverseStrand.bw
-subGroups view=r fact=abf1 treat=YPD
-type bigWig
-priority 431
-
 track yep2f16527
 shortLabel ORC6 YPD
 longLabel 16527 ORC6 forward strand
